@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 this is git folder
 i have createdc branch1
+=======
+
+this is git folder
+
+" I have created branch2"
+>>>>>>> branch2
